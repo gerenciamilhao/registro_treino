@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run seu_app.py
